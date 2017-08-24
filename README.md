@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://res.cloudinary.com/danlau168/image/upload/v1503552384/tipcalc_hz1fv0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://res.cloudinary.com/danlau168/image/upload/v1503554588/tipcalc2_vpcjuo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
